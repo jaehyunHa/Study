@@ -1,3 +1,9 @@
+# 요약
+1. 점 표기법 vs 대괄호 표기법
+2. JSON 약자
+
+
+
 # [Poeimaweb 객체](https://poiemaweb.com/js-object)
 
 # ❗대괄호 표기법 사용해야 할 때
