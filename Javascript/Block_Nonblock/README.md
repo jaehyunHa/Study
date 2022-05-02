@@ -1,3 +1,7 @@
+# 요약
+1. 블록/논블록이란?
+2. sync, async란?
+
 # [블로킹, 논 블로킹](https://www.youtube.com/watch?v=oEIoqGd-Sns)
 
 # [블로킹, 논블로킹](https://www.youtube.com/watch?v=IdpkfygWIMk)
