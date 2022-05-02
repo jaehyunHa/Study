@@ -12,3 +12,7 @@
     4. 콜백함수
 
 # [Poeimaweb 함수](https://poiemaweb.com/js-function)
+
+
+# 참조에 의한 전달
+![ref](./ref.PNG)
